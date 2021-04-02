@@ -17,7 +17,7 @@ def binary_search(sequence, item):
 
     return None
 
-sequence_a = [2,4,5,6,7,3,8,9,10,12,13,14]
+sequence_a = [2,4,5,6,78,9,10,12,13,14]
 item_a = 3
 
 
