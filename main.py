@@ -19,4 +19,4 @@ def quick_sort(sequence):
 
     return quick_sort(items_lower) + [pivot] + quick_sort(items_greater)
 
-print(quick_sort([1,1,1,1,0,1,0,1,1,1,0,0,0,1,0,1,0,0,0,00,0,1,0,0,1,0,1,1,1,0,0,1,1,0,0,1,11,0,1,1,0,1,1,1096969766423155]))
+print(quick_sort([]))
