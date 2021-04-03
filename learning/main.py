@@ -19,4 +19,4 @@ def quick_sort(sequence):
 
     return quick_sort(items_lower) + [pivot] + quick_sort(items_greater)
 
-print(quick_sort([]))
+print(quick_sort([1,3,4,6,7,89,0,98]))
